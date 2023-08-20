@@ -1,1 +1,1 @@
-This web app helps the users to visualise different kind of sorting algorithms using colors and swap animations.
+This web application enables users to visualize various sorting algorithms through color-coded representations and animated swapping.
